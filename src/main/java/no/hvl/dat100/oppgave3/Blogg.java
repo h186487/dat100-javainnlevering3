@@ -1,6 +1,6 @@
 package no.hvl.dat100.oppgave3;
 
-import no.hvl.dat100.common.TODO;
+
 import no.hvl.dat100.oppgave1.*;
 
 public class Blogg {
@@ -83,26 +83,26 @@ public class Blogg {
 		return result;
 	}
 
-	// valgfrie oppgaver nedenfor
+	// valgfrie oppgaver nedenfor (kommentert ut)
 	
-	public void utvid() {
-		throw new UnsupportedOperationException(TODO.method());
-	}
-	
-	public boolean leggTilUtvid(Innlegg innlegg) {
+//	public void utvid() {
 
-		throw new UnsupportedOperationException(TODO.method());
-		
-	}
-	
-	public boolean slett(Innlegg innlegg) {
-		
-		throw new UnsupportedOperationException(TODO.method());
-	}
-	
-	public int[] search(String keyword) {
-		
-		throw new UnsupportedOperationException(TODO.method());
+//	}
+//	
+//	public boolean leggTilUtvid(Innlegg innlegg) {
+//
 
-	}
+//		
+//	}
+//	
+//	public boolean slett(Innlegg innlegg) {
+//		
+
+//	}
+//	
+//	public int[] search(String keyword) {
+//		
+
+//
+//	}
 }
